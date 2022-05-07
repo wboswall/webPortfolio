@@ -26,22 +26,40 @@
 	
 	figure
 	{
-		
+		background-color: #FFFFFF;
 	}
 
 	figcaption
 	{
-		
+		background-color: #FFFFFF;
 	}
 
 	img
 	{
-		
+		background-color: #FFFFFF;
 	}
 
 	p
 	{
-		
+		background-color: #FFFFFF;
+	}
+	body {
+		font-family: Arial, Helvetica, sans-serif;
+  		background-color: #d4d4d4;
+	}
+
+	menu, ul{
+	display: inline;
+	list-style: none;
+	display: flex;
+	flex-wrap: wrap;
+	margin: 0;
+	padding: 20px;
+	width: 50%;
+	background-color: #FFFFFF;
+	}
+	a {
+	padding: 8px;
 	}
 
 	/*
@@ -54,27 +72,27 @@
 
 	.gAds
 	{
-		
+		background-color: #FFFFFF;
 	}
 
 	.customImage
 	{
-		
+		background-color: #FFFFFF;
 	}
 
 	.menuBar
 	{
-		
+		background-color: #FFFFFF;
 	}
 
 	.sponsoredAds
 	{
 		
-	}
+		background-color: #FFFFFF;}
 
 	.ticker
 	{
-		
+		background-color: #FFFFFF;
 	}
 	
 	ul{
@@ -101,22 +119,22 @@
 
 	.alert
 	{
-		
+		background-color: #FFFFFF;
 	}
 
 	.danger
 	{
-		
+		background-color: #FFFFFF;
 	}
 
 	.info
 	{
-		
+		background-color: #FFFFFF;
 	}
 
 	.statusOkay
 	{
-		
+		background-color: #FFFFFF;
 	}
 
 	/*
