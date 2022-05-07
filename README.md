@@ -1,5 +1,3 @@
-# webPortfolio
-A repository for all of my web projects.  Please see license on why this repository it is restricted: https://github.com/wboswall/webPortfolio/blob/main/LICENSE.md Feel free to look at the other repositories that have an open source license.  
-
-#Table of Contents
-To Do: list the best front end, backend and full stack apps and websites.
+# wboswalldotca
+My new up and coming website.
+Nobody is allowed to make any changes to this website or the software that is connected to this website.  The codebase cannot be copied in any way.  

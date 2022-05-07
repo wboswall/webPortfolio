@@ -1,0 +1,169 @@
+/*
+ *File Name: main.css
+ *Purpose: To create my own stylesheet that will run with my rsdpeiEngine.js, html files and php files. 
+ *Copyright (c) 2022 by William Boswall
+ *No content in all or in part of this CSS file shall be found anywhere else in cyberspace. No person(s) or bot(s) is or are allowed to copy this file. 
+ *Date Created: 03/28/2022
+ *Date Modified: 04/15/2022
+ *Pre Version history: 0.0.1.0alpha
+ *Official version history:
+*/
+
+/*
+ * Custom global rules
+ */
+ 
+
+/*
+ * Main style components. In alphabetical order. 
+*/
+@media screen 
+{
+	article h1 {
+	    background-color:rgb(116, 20, 20);
+	}
+	
+	
+	figure
+	{
+		
+	}
+
+	figcaption
+	{
+		
+	}
+
+	img
+	{
+		
+	}
+
+	p
+	{
+		
+	}
+
+	/*
+	 * End of Main style components
+	 */
+
+	/*
+	 * Custom CSS classes
+	 */
+
+	.gAds
+	{
+		
+	}
+
+	.customImage
+	{
+		
+	}
+
+	.menuBar
+	{
+		
+	}
+
+	.sponsoredAds
+	{
+		
+	}
+
+	.ticker
+	{
+		
+	}
+	
+	ul{
+	    list-style-type: none;
+	    margin:0;
+	    padding:0;
+	}
+
+	.welcome
+	{
+		font-family: Tahoma, Sans Serif;
+		color:blue;
+		font-size: 20pt;
+	}
+
+	
+	
+
+	/*
+	 *Status boxes
+	 *Available in alert, danger, warning, statusOkay and info style of boxes. In alphabetical order.  
+
+	*/
+
+	.alert
+	{
+		
+	}
+
+	.danger
+	{
+		
+	}
+
+	.info
+	{
+		
+	}
+
+	.statusOkay
+	{
+		
+	}
+
+	/*
+	 *End of status boxes
+	*/
+
+
+
+
+
+
+	/*
+	 * End of custom CSS classes
+	 */
+
+
+
+	 /*
+	 * Custom CSS #id(s). In alphabetical order. 
+	 */
+		#test p {
+	    background-color: aquamarine !important;
+	    color:blueviolet !important;
+	}
+
+
+
+
+
+
+	 /*
+	 * End of custom CSS #id(s).  
+	 */
+ 
+}
+
+
+@media print 
+{
+	
+	
+}
+
+@media speech
+{
+	
+	
+}
+
+
