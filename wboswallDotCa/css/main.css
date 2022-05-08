@@ -48,7 +48,7 @@
   		background-color: #d4d4d4;
 	}
 
-	menu, ul{
+	menu, li{
 	display: inline;
 	list-style: none;
 	display: flex;
