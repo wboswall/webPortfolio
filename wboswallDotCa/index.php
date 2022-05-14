@@ -19,12 +19,18 @@
 				<section class="Intro">
 					<h1>Welcome!</h1>
 					<p> Thank you for visiting my website!  </p>
-					<p> Eversince 2013 and when I was a kid, I always wanted to understand more about computers and software.  Since then I took web and programming courses at College and at Academy of Learning.  I plan to take more in the future to keep up to date. </p>
-					<p> Hello, My name is William Boswall and I am currently learning and reviewing: C++, C#, Java, Python, Perl and VB.NET.  I am currently learning Web languages: HTML5, CSS3, JavaScript and its libraries/frameworks, PhP and its CMS and Frameworks, and MySQL.  </p>
+					<p> Ever since 2013 and when I was a kid, I always wanted to understand more about computers and software.  
+						Since then I took web and programming courses at College and at Academy of Learning.  
+						I plan to take more in the future to keep up to date. </p>
+					<p> Hello, My name is William Boswall and I am currently learning and reviewing: C++, C#, Java, Python, Perl and VB.NET.  
+						I am currently learning Web languages: HTML5, CSS3, JavaScript and its libraries/frameworks, PhP and its CMS and Frameworks, and MySQL.  </p>
+				</section>
+				<section class="About">
+					
 				</section>
         <section>
           <h1> Page under construction!</h1>
         </section>
-				<?php require("phpScrpts/footer.php");?>
+				<?php require ("phpScripts/footer.php");?>
 			</body>
 	</html> 
