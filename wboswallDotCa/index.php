@@ -5,7 +5,7 @@
 		<meta charset="utf-8">
 		<meta name="description" content="Personal Website">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<meta name="keywords" content="HTML, CSS, JavaScript, React, Angular, Vue, PHP, MySQL, Blog, William, Boswall, GitHub">
+		<meta name="keywords" content="HTML, CSS, JavaScript, React, Angular, Vue, PHP, MySQL, Blog, Resume, William, Boswall, GitHub">
 		<meta name="author" content="William Boswall">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<link rel="stylesheet" type="text/css" href="css/main.css">
